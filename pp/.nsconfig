@@ -1,0 +1,4 @@
+<Files *>
+ErrorFile reason="Unauthorized" code=401 path=/errorpage.htm
+ErrorFile reason="Not Found" code=404 path=/errorpage.htm
+</Files>

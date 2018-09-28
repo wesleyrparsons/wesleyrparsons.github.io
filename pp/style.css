@@ -1,0 +1,12 @@
+body { color : #66CCFF; background : BLACK; font-family : Verdana, sans-serif; 
+  margin-left : 5%; margin-right: 5%; }
+p { text-indent : 2em; margin-top : 0; margin-bottom : 0; }
+h3 { text-indent : 2em; margin-top : 0; margin-bottom : 0; }
+pre {font-family : monospace; }
+h1 { font-size : 300%; font-family : "Times New Roman", Garamond, serif; }
+h2, h3, h4, h5, p, ul { font-family : Verdana, sans-serif; }
+div.box { border : solid; border-width : thin; width : 100%; }
+:link {color : #66CCFF;}
+:visited {color : #99CCCC;}
+:active {color : #00FF00;}
+:hover {color : #00CC33;}

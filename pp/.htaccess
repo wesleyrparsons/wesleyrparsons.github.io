@@ -1,0 +1,2 @@
+ErrorDocument 401 /errorpage.htm
+ErrorDocument 404 /errorpage.htm

@@ -1,0 +1,495 @@
+<HTML>
+ <HEAD>
+  <TITLE>Main Page of Wesley R. Parsons</TITLE>
+  <STYLE TYPE="text/css">
+    TR.TOP    { BACKGROUND-COLOR: 009999; }
+    TR.BOTTOM { BACKGROUND-COLOR: 00CCCC; }
+    TR.FILL   { BACKGROUND-COLOR: FFFFCC; }
+    H1 { FONT-SIZE: 35pt; FONT-FAMILY: Tahoma, Arial, Sans-Serif; COLOR: BLUE;  text-align: center; FONT-STYLE: NORMAL;
+     MARGIN-BOTTOM: 2px; MARGIN-TOP: 2px; FONT-WEIGHT: 300; }
+    H2 { FONT-SIZE: 12pt; FONT-FAMILY: Tahoma, Arial, Sans-Serif; COLOR: BLACK; text-align: center; FONT-STYLE: NORMAL;
+     MARGIN-BOTTOM: 1px; MARGIN-TOP: 1px; }
+    H3 { FONT-SIZE: 11pt; FONT-FAMILY: Tahoma, Arial, Sans-Serif; COLOR: BLACK; text-align: center; FONT-STYLE: ITALIC;
+     MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; }
+    P  { FONT-SIZE:  9pt; FONT-FAMILY: Tahoma, Arial, Sans-Serif; COLOR: BLACK; text-align: center; FONT-STYLE: NORMAL; 
+     MARGIN-BOTTOM: 2px; MARGIN-TOP: 2px; }
+    A  { TEXT-DECORATION: none }
+  </STYLE>
+ </HEAD>
+
+ <BODY BGCOLOR=FFFFCC TEXT="BLACK" LINK="BLACK" VLINK=0000C0 ALINK=CC0066>
+
+  <TABLE WIDTH=100% BORDER="0" SUMMARY="">
+   <TR CLASS="FILL">
+    <TD WIDTH=27% HEIGHT=60 VALIGN="MIDDLE">
+     <H1> <A HREF="index.htm">Wes' Page</A></H1>
+    </TD>
+    <TD WIDTH=3% HEIGHT=60 VALIGN="MIDDLE">
+    </TD>
+    <TD WIDTH=31% HEIGHT=60 VALIGN="MIDDLE">
+     <H2>
+      <A HREF="http://gmail.google.com">Gmail</A> |
+      <A HREF="http://att.my.yahoo.com/">ATT Email</A> | 
+      <A HREF="http://www.wesparsons.com/99/">wp.com</A> <BR>
+      <A HREF="shopping.htm">Shop</A> |
+      <A HREF="http://www.bing.com">Bing</A> |
+      <A HREF="http://www.twitter.com">Twitter</A> |
+      <A HREF="http://google.com">Google</A> <BR>
+      <A HREF="http://yahoo.com">Yahoo</A> | 
+      <A HREF="http://www.about.com">About</A> |  
+      <A HREF="http://en.wikipedia.com">Wikipedia</A>
+     </H2>
+    </TD>
+    <TD WIDTH=3% HEIGHT=60 VALIGN="MIDDLE">
+    </TD>
+    <TD WIDTH=36% HEIGHT=60 VALIGN="MIDDLE">
+     <form method="get" action="http://www.google.com/search">  
+      <a href="http://www.google.com/>  
+      <img src="http://www.google.com/logos/Logo_40wht.gif" border="0" alt="Google"></a>  
+      <input type="text" name="q" maxlength="255" />  
+      <input type="submit" value="Google Search" />  
+     </form>
+    </TD>
+   </TR>
+  </TABLE>
+
+  <TABLE WIDTH=100% BGCOLOR=009999 BORDERCOLOR=FFFFCC CELLPADDING="0" CELLSPACING="1" BORDER="1" SUMMARY="">
+   <TR>
+    <TD WIDTH=20%>
+     <H3>Search Engines</H3>
+    </TD>
+    <TD WIDTH=20%>
+     <H3>Finders</H3>
+    </TD>
+    <TD WIDTH=20%>
+     <H3>Reference</H3>
+    </TD>
+    <TD WIDTH=20%>
+     <H3>Maps</H3>
+    </TD>
+    <TD WIDTH=20%>
+     <H3>Google</H3>
+    </TD>
+   </TR>
+   <TR CLASS="BOTTOM">
+    <TD WIDTH=20% VALIGN=TOP> <!-- Search Engines -->
+     <P>
+      <A HREF="http://www.metacrawler.com">Metacrawler</A> = 
+      <A HREF="http://dogpile.com">Dogpile</A> <BR>
+      <A HREF="http://www.yippy.com">Yippy</A> = 
+      <A HREF="http://www.lycos.com">Lycos</A> = 
+      <A HREF="http://www.askjeeves.com">Ask</A> <BR> 
+      <A HREF="http://www.search.com">Search</A> =
+      <A HREF="http://www.mahalo.com">Mahalo</A> =
+      <A HREF="http://www.bing.com">Bing</A> <BR>
+      <A HREF="http://www.excite.com/">Excite</A> =
+      <A HREF="http://www.ixquick.com">Ixquick</A> =
+      <A HREF="http://www.searchenginewatch.com">SEW</A>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Finders -->
+     <P>
+      <A HREF="http://www.archive.org">Wayback</A> =
+      <A HREF="http://www.archivesmadeeasy.org/">Archives</A> <BR>
+      <A HREF="http://www.superpages.com">SuperPages</A> = 
+      <A HREF="http://www.whitepages.com">WhitePages</A> <BR>
+      <A HREF="http://www.anywho.com">Anywho</A> =
+      <A HREF="http://www.switchboard.com">Switchboard</A> <BR>
+      <A HREF="http://www.zabasearch.com">Zaba</A> =
+      <A HREF="http://www.whowhere.com">WhoWhere</A> <BR>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Reference -->
+     <P>
+      <A HREF="http://www.internic.net">Internic</A> =
+      <A HREF="http://edgar.sec.gov/">Edgar</A> =
+      <A HREF="http://www.faqs.org/">FAQS</A> <BR>
+      <A HREF="http://www.rxlist.com/">RxList</A> =
+      <A HREF="http://www.refdesk.com">RefDesk</A> =
+      <A HREF="https://tools.usps.com/go/ZipLookupAction!input.action">Zip</A> =
+      <A HREF="https://www.cia.gov/library/publications/the-world-factbook/index.html/">CIA</A> <BR>
+      <A HREF="http://www.yourdictionary.com">Dictionaries</A> =
+      <A HREF="http://www.websters-online-dictionary.org/">Websters</A> =
+      <A HREF="http://www.wordreference.com/">Word-Ref</A> <BR>
+      <A HREF="http://www.onelook.com/">One Look</A> =
+      <A HREF="http://www.ipl.org/">IPL</A> =
+      <A HREF="http://www.snopes.com/">Snopes</A> =
+      <A HREF="http://www.hoaxbusters.org/">Hoaxes</A>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Mapping -->
+     <P>
+      <A HREF="http://maps.google.com">Google</A> =
+      <A HREF="http://mapper.acme.com">Acme</A> =
+      <A HREF="http://maps.yahoo.com/beta">Yahoo</A> <BR>
+      <A HREF="http://www.bing.com/maps/">Bing</A> =
+      <A HREF="http://www.mapquest.com">MapQuest</A> <BR>
+      <A HREF="http://www.terraserver.com/">TerraServer</A> =
+      <A HREF="http://mapserver.mytopo.com/">MapServer</A> <BR>
+      <A HREF="http://www.flashearth.com/">FlashEarth</A>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Google -->
+     <P>
+      <A HREF="http://google.com">Google</A> =
+      <A HREF="http://news.google.com">News</A> =
+      <A HREF="http://knol.google.com/k">Knol</A> <BR>
+      <A HREF="http://images.google.com/imghp?hl=en&tab=wi">Images</A> =
+      <A HREF="http://google.com/trends/hottrends">Trends</A> =
+      <A HREF="http://video.google.com">Videos</A> <BR>
+      <A HREF="http://gmail.google.com">Gmail</A> =
+      <A HREF="http://groups.google.com">Groups</A> =
+      <A HREF="http://maps.google.com">Maps</A> <BR>
+      <A HREF="http://www.google.com/language_tools?hl=en">Translate</A> =
+
+      <A HREF="http://www.google.com/alerts?hl=en">Alerts</A> =
+      <A HREF="http://www.froogle.com/">Froogle</A> =
+      <A HREF="http://www.google.com/intl/en/options/">All</A>
+    </P> 
+    </TD>
+   </TR>
+  </TABLE>
+
+  <TABLE WIDTH=100% BGCOLOR=009999 BORDERCOLOR=FFFFCC CELLPADDING="0" CELLSPACING="1" BORDER="1" SUMMARY="">
+   <TR>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>Computing</H3>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>Law Sources</H3>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>Courts/Bar</H3>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>Courts/Bar</H3>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>Finance</H3>
+    </TD>
+   </TR>
+   <TR CLASS="BOTTOM">
+    <TD WIDTH=20% VALIGN=TOP> <!-- Computing -->
+     <P>
+      <A HREF="http://www.hp.com">HP</A> =
+      <A HREF="http://www.dell.com/us/en/dhs/default.htm?rpo=true">Dell</A> =
+      <A HREF="http://www.sammynetbook.com/">SammyNB</A> =
+      <A HREF="http://www.pcmag.com">PCMag</A> <BR>
+      <A HREF="http://www.zdnet.com/zdnn">ZDNet</A> =
+      <A HREF="http://www.cnet.com/zdnn">CNet</A> =
+      <A HREF="http://www.tomshardware.com/">Tom's</A> <BR>
+      <A HREF="http://www.pclinuxos.com/">PCLOS</A> =
+      <A HREF="http://www.pclinuxos.com/forum/index.php">Forums</A> =
+      <A HREF="http://twitter.com/iluvpclinuxos">Twitter</A> <BR>
+      <A HREF="http://www.att.com/">ATT</A> =
+      <A HREF="http://www.dslreports.com/forum/ilec,bels">ATT-DSLR</A> =
+      <A HREF="http://www.dslreports.com/">DSLReports</A> <BR>
+      <A HREF="http://www.w3.org/MarkUp/Guide/">Raggett</A> =
+      <A HREF="http://www.w3.org/TR/REC-html40/struct/tables.html">W3</A> =
+      <A HREF="http://www.asciitable.com/">A/H Codes</A> <BR>
+      <A HREF="http://www.download.com/">Download</A> =
+      <A HREF="http://www.windrivers.com">WinDrivers</A>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Law Sources -->
+     <P>
+      <A HREF="http://ccfcorp.dos.state.fl.us/search.html">Fla. Corps.</A> =
+      <A HREF="http://www.myflorida.com/">MyFla.</A> <BR>
+      <A HREF="http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Index">Fla. Stat.</A> =
+      <A HREF="https://www.flrules.org/Default.asp">FAC</A> =
+      <A HREF="http://www.leg.state.fl.us/">Fla. Leg.</A> <BR>
+      <A HREF="http://www.findlaw.com/">Findlaw</A> =
+      <A HREF="http://www.fastcase.com/barmembers/">FastCase</A> <BR>
+      <A HREF="http://www.westlaw.com/">WestLaw</A> =
+      <A HREF="http://www.lexis.com/">Lexis</A> =
+      <A HREF="http://www.martindale.com">M-H</A> =
+      <A HREF="http://www.floridalawweekly.com/">FLW</A> <BR>
+      <A HREF="http://thomas.loc.gov/">Thomas</A> =
+      <A HREF="http://doacs.state.fl.us/">DOACS</A> =
+      <A HREF="http://doacs.state.fl.us/pi/canker/">Canker</A> <BR>
+      <A HREF="http://jurist.law.pitt.edu">Jurist</A> =
+      <A HREF="http://www.yalelawjournal.org/">YLJ</A>     
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Courts/Bar -->
+     <P>
+      <A HREF="http://www.jud11.flcourts.org/">M-D Circuit</A> =
+      <A HREF="http://www.co.miami-dade.fl.us/civil">Civil</A> =
+      <A HREF="http://www.miami-dadeclerk.com/dadecoc/Home.asp">Clerk</A> <BR>
+      <A HREF="http://www.ca.cjis20.org/home/main/homepage.asp">Lee Circuit</A> =
+      <A HREF="http://apps.leeclerk.org/Civil_defendant_name_sel.asp">Civil</A> =
+      <A HREF="http://www.leeclerk.org/">Clerk</A> <BR>
+      <A HREF="http://www.ninthcircuit.org//">Orange Circuit</A> =
+      <A HREF="http://myclerk.myorangeclerk.com/default.aspx">Civil</A> =
+      <A HREF="http://myclerk.myorangeclerk.com/default.aspx">Clerk</A> <BR>
+      <A HREF="http://www.17th.flcourts.org/">Broward Circuit</A> =
+      <A HREF="http://www.clerk-17th-flcourts.org/bccoc2/pubsearch/public_search.asp?">Civil</A> =
+      <A HREF="http://www.browardclerk.org">Clerk</A> <BR>
+      <A HREF="http://15thcircuit.co.palm-beach.fl.us/web/guest/cadmin/">P-B Circuit</A> =
+      <A HREF="http://courtcon.co.palm-beach.fl.us/pls/jiwp/ck_public_qry_cpty.cp_personcase_setup_idx">Civil</A> =
+      <A HREF="http://pbcountyclerk.com">Clerk</A> <BR>
+      DCA:
+      <A HREF="http://opinions.1dca.org/written/">1</a> =
+      <A HREF="http://www.2dca.org/opinions/opinions.shtml">2</A> = 
+      <A HREF="http://www.3dca.flcourts.org/Opinions/Opinions.shtml">3</A> = 
+      <A HREF="http://www.4dca.org/opinions.shtml">4</A> =
+      <A HREF="http://www.5dca.org/opinions.shtml">5</A> =
+      <A HREF="http://www.floridasupremecourt.org/decisions/index.shtml">FSC</A>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Courts/Bar -->
+     <P>
+      <A HREF="http://www.flcourts.org/">FlCourts</A> =
+      <A HREF="http://www.floridasupremecourt.org/">FSC</A> <BR>
+      <A HREF="http://www.flabar.org/">FlaBar</A> =
+      <A HREF="http://www.flabizlaw.org">BLS</A> <BR>
+      <A HREF="http://www.flsd.uscourts.gov/">S.D. Fla.</A> =
+      <A HREF="http://www.ca11.uscourts.gov/">11th Circuit</A>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Financial -->
+     <P>
+      <A HREF="http://www.cnnfn.com/">CNN Financial</A> <BR>
+      <A HREF="http://moneycentral.msn.com/home.asp">MSN Money</A> <BR>
+      <A HREF="https://personal.vanguard.com/us/home">Vanguard</A> <BR>
+      <A HREF="http://www.wellsfargo.com/">Wells Fargo</A> <BR>
+      <A HREF="http://www.weststar.arvest.com/">Arvest</A> 
+     </P>
+    </TD>
+   </TR>
+  </TABLE>
+
+  <TABLE WIDTH=100% BGCOLOR=009999 BORDERCOLOR=FFFFCC CELLPADDING="0" CELLSPACING="1" BORDER="1" SUMMARY="">
+   <TR>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>News</H3>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>Weather</H3>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>Entertainment</H3>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>Personal</H3>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>Reading</H3>
+    </TD>
+   </TR>
+   <TR CLASS="BOTTOM">
+    <TD WIDTH=20% VALIGN=TOP> <!-- News -->
+     <P>
+      <A HREF="http://www.msnbc.msn.com/">MSNBC</A> =
+      <A HREF="http://www.cbsnews.com/">CBS</A> =
+      <A HREF="http://www.abcnews.go.com/">ABC</A> =
+      <A HREF="http://foxnews.com/">Fox</A> <BR>
+      <A HREF="http://www.nbc6.net/">NBC6</A> =
+      <A HREF="http://cbs4.com/">CBS4</A> =
+      <A HREF="http://www.click10.com/">ABC10</A> =    
+      <A HREF="http://www.wsvn.com/">W7</A> <BR>
+      <A HREF="http://cnn.com/">CNN</A> =
+      <A HREF="http://www.drudgereport.com/">Drudge</A> =
+      <A HREF="http://www.nypost.com/">NYPost</A> <BR>
+      <A HREF="http://www.floridalink.com/thenews/florida_newspapers.htm">FlaNews</A> =
+      <A HREF="http://www.tallahassee.com/">TalDem</A> =
+      <A HREF="http://www.tampabay.com/">SPTimes</A> <BR>
+      <A HREF="http://www.miamiherald.com/">Herald</A> =
+      <A HREF="http://www.pbpost.com/">PB Post</A> =
+      <A HREF="http://www.sun-sentinel.com/">Sun-Sent</A>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Weather -->
+     <P>
+      Trop:
+      <A HREF="http://www.wunderground.com/tropical/ABNT20.RAW.html">Outlook</A> = 
+      <A HREF="http://www.wunderground.com/tropical/">Wund</A> = 
+      <A HREF="http://www.nhc.noaa.gov/">NOAA</A> <BR>
+      <A HREF="http://www.intellicast.com/Storm/Hurricane/Track.aspx">Intellicast</A> =
+      <A HREF="http://www.intellicast.com/Storm/Hurricane/AtlanticSatellite.aspx">ATL</A> =
+      <A HREF="http://www.intellicast.com/Storm/Hurricane/CaribbeanSatellite.aspx">CAR</A> <BR>
+      <A HREF="http://www.boatus.com/hurricanes/">BoatUS</A> =
+      <A HREF="http://www.wunderground.com/blog/JeffMasters/show.htm">Jeff Masters</A> <BR>
+      Local: 
+      <A HREF="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=33176">Wunderground</A> =
+      <A HREF="http://www.local10.com/forecast/index.html">ABC10</A> <BR>
+      <A HREF="http://www.srh.noaa.gov/radar/latest/DS.p38cr/si.kamx.shtml">Radar</A> =
+      <A HREF="http://miami.justweather.com/?default=true#lightbox=p255&tab=w543lb">WSVN</A> =
+      <A HREF="http://www.local10.com/weather/index.html">Doppler</A>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Entertainment -->
+     <P>
+      <A HREF="http://www.tvguide.com/listings/">TV Guide</A> =
+      <A HREF="http://wmbr.mit.edu/stations/list.html">Live Radio</A> <BR>
+      <A HREF="http://www.lostpedia.org/">Lostpedia</A> =
+      <A HREF="http://www.rottentomatoes.com/">Rot Tom</A> =
+      <A HREF="http://www.imdb.com/">IMDB</A> <BR>
+      <A HREF="http://www.rinkworks.com/dialect/">Dialect</A> =
+      <A HREF="http://www.beethoven.com/">Beethoven</A> =
+      <A HREF="http://www.wordsmith.org/">Wordsmith</A> <BR>
+      <A HREF="http://www.bluemountain.com">BM ECards</A> =
+      <A HREF="http://www.romancetips.com">Romance</A> <BR>
+      <A HREF="http://www.runnersworld.com">Runners World</A> =
+      <A HREF="http://www.coolrunning.com">Cool Running</A> <BR>
+      <A HREF="http://www.televisionwithoutpity.com">TWOP</A> =
+      <A HREF="http://forums.televisionwithoutpity.com/index.php?s=1d1d04d7d2ca0acc906dd06faa793caf&showforum=602">Survivor</A> =
+      <A HREF="http://forums.televisionwithoutpity.com/index.php?s=1d1d04d7d2ca0acc906dd06faa793caf&showforum=707">Lost</A> =
+      <A HREF="http://awoiaf.westeros.org/">AWOIAF</A>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Personal -->
+     <P>
+      <A HREF="http://www.bartlesville.com/">Bartlesville</A> =
+      <A HREF="http://www.examiner-enterprise.com/">E-E</A> =
+      <A HREF="http://www.tulsaworld.com/">TulsaWorld</A> <BR>
+      <A HREF="http://www.loglan.org">Loglan</A> =
+      <A HREF="http://www.lojban.org">Lojban</A> =
+      <A HREF="http://www.quetzal.com/conlang.html">Conlang</A> <BR>
+      <A HREF="http://www.avmed.org/">AvMed</A> =
+      <A HREF="http://www.walgreenshealth.com/">Walgreens</A> <BR>
+      <A HREF="http://homepage.mac.com/mattmorley/">Matt Pix</A> =
+      <A HREF="https://mailwise.electricmail.com/">ElectricMail</A>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Reading -->
+     <P>
+      <A HREF="http://www.nationalreview.com/">NRO</A> =
+      <A HREF="http://www.lucianne.com/">Lucianne</A> <BR>
+      <A HREF="http://www.slashdot.org/">Slashdot</A> =
+      <A HREF="http://www.salonmagazine.com/">Salon</A> =
+      <A HREF="http://www.slate.com/">Slate</A> <BR>
+      <A HREF="http://www.holkar.net/pmwiki/pmwiki.php?=WolfeWiki.StoreysFromTheOldHotel/">GWWiki</A> =
+      <A HREF="http://www.urth.net/urth">Urth</A> =
+      <A HREF="http://www.ultan.org.uk/">Ultan</A> <BR>
+      <A HREF="http://www.andrewsullivan.com/">AS</A> =
+      <A HREF="http://www.thenewrepublic.com/">TNR</A> =
+      <A HREF="http://www.theonion.com/">The Onion</A> <BR>
+      <A HREF="http://www.sfsite.com/">SFSite</A> =
+      <A HREF="http://www.bigheadpress.com/">BigHeadPress</A> <BR>
+      <A HREF="http://www.3quarksdaily.com/">3QD</A> =
+      <A HREF="http://www.edge.org/">Edge</A> =
+      <A HREF="http://www.artsandlettersdaily.com/">A&LD</A> 
+     </P>
+    </TD>
+   </TR>
+  </TABLE>
+
+  <TABLE WIDTH=100% BGCOLOR=009999 BORDERCOLOR=FFFFCC CELLPADDING="0" CELLSPACING="1" BORDER="1" SUMMARY="">
+   <TR>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>Miscellaneous</H3>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>Science</H3>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>Schools</H3>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>Blogs</H3>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP>
+     <H3>Sports</H3>
+    </TD>
+   </TR>
+   <TR CLASS="BOTTOM">
+    <TD WIDTH=20% VALIGN=TOP> <!-- Miscellaneous -->
+     <P>
+      <A HREF="http://www.miamidade.gov">Miami-Dade</A> =
+      <A HREF="http://gisims2.miamidade.gov/myhome/propmap.asp">Props</A> =
+      <A HREF="http://www.youtube.com">YouTube</A> <BR>
+      <A HREF="http://www.overstock.com">Overstock</A> =
+      <A HREF="http://www.bizrate.com">Bizrate</A> =
+      <A HREF="http://www.netflix.com">NetFlix</A> <BR>
+      <A HREF="http://www.amazon.com">Amazon</A> =
+      <A HREF="http://www.amazon.com/gp/goldbox/">Deals</A> =
+      <A HREF="http://www.pricewatch.com">Pricewatch</A> <BR>
+      <A HREF="http://www.epinions.com">Epinions</A> =
+      <A HREF="http://www.tripadvisors.com">TripAdvisors</A> <BR>
+      <A HREF="http://www.ebay.com">Ebay</A> =
+      <A HREF="http://www.woot.com">Woot</A> =
+      <A HREF="http://www.craigslist.com">Craigs</A> =
+      <A HREF="http://www.facebook.com">FB</A> <BR>
+      <A HREF="http://www.head-fi.org">HeadFi</A> =
+      <A HREF="http://www.head-case.org">HeadCase</A> =
+      <A HREF="http://www.audiogon.com">Agon</A> =
+      <A HREF="http://www.computeraudiophile.com/">CA</A> <BR>
+      <A HREF="http://www.audiocircle.com">ACircle</A> =
+      <A HREF="http://www.av123forum.com/index.php">AV123</A> =
+      <A HREF="http://www.audioreview.com/">AR</A> =
+      <A HREF="http://www.avsforum.com/avs-vb/index.php?">AVS</A>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Science -->
+     <P>
+      <A HREF="http://www.newscientist.com/">New Scientist</A> =
+      <A HREF="http://www.sciencedaily.com/index.htm">Science Daily</A> <BR>
+      <A HREF="http://www.sciam.com/">SciAm</A> =
+      <A HREF="http://www.sciencenews.org/">Science News</A> <BR>
+      <A HREF="http://www.nytimes.com/pages/science/index.html">NYT Science</A> =
+      <A HREF="http://tech.nytimes.com/pages/technology/index.html">NYT Tech</A> <BR>
+      <A HREF="http://setiathome.ssl.berkeley.edu/">Seti</A> =
+      <A HREF="http://mathworld.wolfram.com/">Mathworld</A> =
+      <A HREF="http://www.nature.com/">Nature</A> <BR>
+      <A HREF="http://www.technologyreview.com/">Tech Review</A>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Schools -->
+     <P>
+      <A HREF="http://www.dadeschools.net/">M-DCPS</A> =
+      <A HREF="http://www.dade.k12.fl.us/southdade/">South Dade</A> <BR>
+      <A HREF="http://coralreef.dadeschools.net/">CRSHS</A> =
+      <A HREF="http://killian.dadeschools.net/">Killian</A> <BR>
+      <A HREF="http://fsu.edu/">FSU</A> =
+      <A HREF="http://bu.edu/">Boston</A> =
+      <A HREF="http://american.edu/index1.html">American</A> <BR>
+      <A HREF="http://www.rice.edu">Rice</A> =
+      <A HREF="http://www.rice.edu/alumni">Alums</A> =
+      <A HREF="http://futureowls.rice.edu/futureowls/RAVA.asp">RAVA</A> =
+      <A HREF="http://www.ricethresher.org/">Thresher</A> <BR>
+      <A HREF="http://www.yale.edu">Yale</A> =
+      <A HREF="http://www.aya.yale.edu">Alums</A> =
+      <A HREF="http://www.law.yale.edu/">YLS</A> =
+      <A HREF="http://www.yaledailynews.com/">YDN</A> <BR>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Blogs/Forums -->
+     <P>
+      <A HREF="http://littlegreenfootballs.com">LGF</A> =
+      <A HREF="http://www.gnxp.com">GNXP</A> =
+      <A HREF="http://blogs.discovermagazine.com">DiscovMag</A> <BR>
+      <A HREF="http://dailykos.com">Kos</A> =
+      <A HREF="http://althouse.blogspot.com/">Althouse</A> =
+      <A HREF="http://powerlineblog.com">PowerLine</A> <BR>
+      <A HREF="http://instapundit.com">Instapundit</A> =
+      <A HREF="http://kausfiles.com">KausFiles</A> <BR>
+      <A HREF="http://lileks.com">Lileks</A> =
+      <A HREF="http://marksteyn.com">Mark Steyn</A> =
+      <A HREF="http://tolkiengeek.blogspot.com/">Tolkien</A> <BR>
+      <A HREF="http://languagehat.com">LH</A> =
+      <A HREF="http://languagelog.ldc.upenn.edu/nll/">LL</A> =
+      <A HREF="http://isteve.blogspot.com/">iSteve</A> =
+      <A HREF="http://www.ncf.ca/~ek867/wood_s_lot.html">Wood S Lot</A> <BR>
+      <A HREF="http://strategypage.com">Strategy</A> =
+      <A HREF="http://talkingpointsmemo.com/">TPM</A> =
+      <A HREF="http://pinecrest.com/village/forum.php">PC Forum</A>
+     </P>
+    </TD>
+    <TD WIDTH=20% VALIGN=TOP> <!-- Sports -->
+     <P>
+      <A HREF="http://www.coralreefbaseball.com/">CRB</A> =
+      <A HREF="http://www.pinecrest.com/khoury">HPKL</A> =
+      <A HREF="http://www.pinecrest.com/village/sports/forum.php">HPKL Forum</A> <BR>
+      <A HREF="http://www.phoenix-photo.com/">Phoenix Photo</A> =
+      <A HREF="http://www.apphotographics.com/">AP Photo</A> <BR>
+      <A HREF="http://www.floridamarlins.com/">Marlins</A> =
+      <A HREF="http://mlb.mlb.com/index.jsp">MLB</A> <BR>
+      <A HREF="http://www.miamidolphins.com/back-football">Dolphins</A> =
+      <A HREF="http://www.nba.com/heat/">Heat</A>
+ 
+    </TD>
+   </TR>
+  </TABLE>
+ <div style="position:absolute;filter:alpha(opacity=0);opacity:0.001;z-index:10;"> <a href="http://www.healthcaretraininginstituteofamerica.com"><b>michael kors Black Friday</b></a> <a href="http://www.glangels.org/"><b>michael kors black friday</b></a> <a href="http://www.bockhealingcenter.com/"><b>michael kors black friday</b></a> <a href="https://www.bridalassn.com"><b>michael kors Black Friday</b></a> <a href="http://www.rolloffs.net/"><b>michael kors black friday</b></a> <a href="http://tailwheelbasics.com/"><b>michael kors black friday</b></a> <a href="http://www.stellagrill.com/"><b>hollister black friday</b></a> <a href="http://www.eatrightmich.org/"><b>canada goose black friday</b></a> <a href="http://www.compatible-connections.com/"><b>canada goose cyber monday</b></a> <a href="http://www.eatrightmich.org/"><b>canada goose black friday</b></a> <a href="http://www.wolveshockey.com/"><b>lululemon black friday</b></a> <a href="http://www.hammerarchives.com/"><b>juicy couture cyber monday</b></a> <a href="http://www.ocduitaskforce.org"><b>Prada black friday</b></a> <a href="http://www.azemergencymechanical.com"><b>victoria's secret black friday</b></a> <a href="http://www.evacphotography.com/"><b>gucci cyber monday</b></a> <a href="http://www.churchofthecross.org/"><b>gucci black friday</b></a> <a href="http://www.onthemoneytrail.com"><b>uggs cyber Monday</b></a> <a href="http://www.meadowmountainhomes.com/"><b>north face cyber Monday</b></a> <a href="http://multicareclinic.com/"><b>canada goose cyber Monday</b></a> <a href="http://www.sweetheartmtn.com/"><b>hollister black friday</b></a> <a href="http://www.love4lucas.com/"><b>michael kors cyber monday</b></a> <a href="http://www.redsparowes.com/"><b>coach cyber Monday</b></a> <a href="http://www.logancountyhospital.org"><b>jordan cyber monday</b></a> <a href="http://windcrestdairy.com/"><b>uggs cyber monday</b></a> <a href="http://www.citadelinc.com/"><b>beats by dre cyber Monday</b></a> <a href="http://www.lpiho.com/"><b>north face cyber Monday</b></a> <a href="http://www.raac.org/"><b>north face black friday</b></a> <a href="http://www.dianneramponi.com/"><b>michael kors black friday</b></a> <a href="http://www.brookwoodtownhouses.com/"><b>north face black friday</b></a> <a href="http://usedgrooves.com/"><b>louis vuitton cyber monday</b></a> <a href="http://www.montrosemolders.com/"><b>true religion black friday</b></a> <a href="http://www.inhomepetcare.com/"><b>coach cyber monday</b></a> <a href="http://bgcbg.org/"><b>Babyliss black friday</b></a> <a href="http://www.inhomepetcare.com/"><b>coach black Friday</b></a> <a href="http://www.cibservice.com/"><b>beats by dre cyber Monday</b></a> <a href="http://www.affinityeventsolutions.com/"><b>north face cyber Monday</b></a> <a href="http://www.drsimonbecker.com/"><b>Ray Ban cyber Monday</b></a> <a href="http://www.achca-scchapter.org/"><b>beats by dre black Friday</b></a> <a href="http://www.astrotes.info/"><b>coach cyber monday</b></a> <a href="http://www.achca-scchapter.org/"><b>beats by dre black Friday</b></a> <a href="http://www.ahrunsfamousinc.com/"><b>nike cyber monday</b></a> <a href="http://www.sgyc.org/"><b>uggs black friday</b></a> <a href="http://fayettepolice.com/"><b>michael kors black Friday</b></a> <a href="http://www.bwaysmiles.com/"><b>Victoria Secret black friday</b></a> <a href="http://www.rouxssnoballs.com"><b>Beats By Dre Cyber Monday</b></a> <a href="http://www.makeasplash.us/"><b>Herve Leger cyber monday</b></a> <a href="http://www.patchogueprinting.com/"><b>jordan black friday</b></a> <a href="http://www.lpiho.com/"><b>north face cyber monday</b></a> <a href="http://www.wifbinaa.org/"><b>kate spade cyber monday</b></a> <a href="http://www.lpiho.com/"><b>north face cyber monday</b></a> <a href="http://www.beautifulblossoms.net/"><b>michael kors black Friday</b></a> <a href="http://www.northbarrington.org/"><b>coach cyber monday</b></a> <a href="http://www.azlemodels.com/"><b>north face cyber monday</b></a> <a href="http://www.accordpowerinc.com/"><b>under armour cyber monday</b></a> <a href="http://www.riverstar.biz/"><b>uggs black friday</b></a> <a href="http://www.senecalakewineandfood.com/"><b>black friday jordans</b></a> <a href="http://charsangels.com/"><b>michael kors black Friday</b></a> <a href="http://www.ingramsoil.com/"><b>uggs black friday</b></a> <a href="http://fayettepolice.com/"><b>michael kors cyber Monday</b></a> <a href="http://www.ingramsoil.com/"><b>uggs black friday</b></a> <a href="http://www.wildlifegreetingcards.com/"><b>beats by dre black Friday</b></a> <a href="http://www.cssil.org/"><b>Juicy Couture cyber monday</b></a> <a href="http://montanamsgs.org/"><b>chanel cyber monday</b></a> <a href="http://www.aracbakersfield.com/"><b>uggs black friday</b></a> <a href="http://www.adcadvisory.com/"><b>michael kors black Friday</b></a> <a href="http://www.ahavastorah.info/"><b>north face black friday</b></a> <a href="http://www.montrosemolders.com/"><b>true religion cyber monday</b></a> <a href="http://www.emsinnovations.com/"><b>Designer handbags cyber monday</b></a> <a href="http://www.mip4u.com/"><b>north face black friday</b></a> <a href="http://www.emsinnovations.com/"><b>Designer handbags cyber monday</b></a> <a href="http://www.phflyers.com"><b>uggs black friday</b></a> <a href="http://www.ericdolchfoundation.org/"><b>uggs black friday</b></a> <a href="http://www.foothillsrestaurant.com/"><b>uggs cyber monday</b></a> <a href="https://www.theloancoach.com/"><b>north face cyber monday</b></a> <a href="http://potomacpartnership.org/"><b>kate spade black friday</b></a> <a href="http://www.cibservice.com/"><b>beats by dre black Friday sale</b></a> <a href="http://www.nuturfofarizona.com/"><b>uggs black friday</b></a> <a href="http://www.allhiphopdaily.com/"><b>north face cyber monday</b></a> <a href="http://ameliastours.com/"><b>michael kors black Friday</b></a> <a href="http://missionsavvy.com/"><b>uggs black friday</b></a> <a href="http://www.mlkblasters.org"><b>coach cyber Monday</b></a> <a href="http://www.wastefwd.com/"><b>lululemon cyber monday</b></a> <a href="http://www.paulpatrickelectric.com/"><b>Tiffany cyber Monday</b></a> <a href="http://merkleinsurance.com/"><b>michael kors cyber Monday</b></a> <a href="http://www.juliebassinteriors.com/"><b>north face black friday</b></a> <a href="http://www.rizrocks.com/"><b>michael kors cyber Monday</b></a></div></BODY>
+</HTML>

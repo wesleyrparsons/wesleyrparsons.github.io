@@ -1,0 +1,171 @@
+body {
+ font-size: 12pt; text-align: justify;
+ color: black; background: #F4F4F4; 
+<!-- font-family: "Times New Roman", Garamond, serif; -->
+ font-family: Verdana, Arial, sans-serif;
+ }
+p {
+ font-size: 12pt; text-align: justify;
+ color: black; 
+ text-indent: 2em; 
+ margin-left: 2em; margin-right: 2em; 
+<!-- font-family: "Times New Roman", Garamond, serif; -->
+ font-family: Verdana, Arial, sans-serif; 
+ }
+p.overhang {
+ font-size: 12pt; text-align: justify;
+ color: black; 
+ text-indent: -1em; 
+ margin-left: 3em; margin-right: 3em; 
+<!-- font-family: "Times New Roman", Garamond, serif; -->
+ font-family: Verdana, Arial, sans-serif;
+ }
+ul {
+ font-size: 12pt; text-align: justify;
+ color: black;
+ text-indent: 4em;
+ list-style-position: outside;
+ margin-left: 2em; margin-right: 2em; 
+ margin-top: 0em; margin-bottom: 1em;
+<!-- font-family: "Times New Roman", Garamond, serif; font-weight: normal; -->
+ font-family: Verdana, Arial, sans-serif; font-weight: normal;
+ }
+li {
+ font-size: 12pt; text-align: justify;
+ color: black;
+ margin-top: 0.3em;
+<!-- font-family: "Times New Roman", Garamond, serif; font-weight: normal; -->
+ font-family: Verdana, Arial, sans-serif; font-weight: normal;
+ }
+ul.indent2 {
+ text-indent: 0em; 
+ }
+h1 {
+ font-size: 30pt; text-align: center; 
+ color: black;  
+ margin-top: 0em; margin-bottom: 0em;
+ font-weight: normal; 
+<!-- font-family: "Times New Roman", Garamond, serif; -->
+ font-family: Verdana, Arial, sans-serif;
+ }
+h1.top {
+ font-size: 30pt;
+ color: #F4F4F4; text-align: center; 
+<!-- font-family: "Times New Roman", Garamond, serif; -->
+ font-family: "BankGothic Md BT", "Square 721 BT", Verdana, Arial, sans-serif;
+ }
+h2 {
+ font-size: 24pt; text-align: center; 
+ color: black;  
+ font-weight: normal; 
+<!-- font-family: "Times New Roman", Garamond, serif; -->
+ font-family: Verdana, Arial, sans-serif;
+ }
+h2.right {
+ font-size: 24pt; text-align: right;
+ color: black;  
+ font-weight: normal; 
+<!-- font-family: "Times New Roman", Garamond, serif; -->
+ font-family: Verdana, Arial, sans-serif;
+ }
+h3 {
+ font-size: 18pt; text-align: center;
+ color: black; 
+ margin-top: 0em; margin-bottom: 0em;
+ font-weight: normal; 
+<!-- font-family: "Times New Roman", Garamond, serif; -->
+ font-family: Verdana, Arial, sans-serif;
+ }
+h3.indent {
+ font-size: 18pt; text-align: justify;
+ color: black; 
+ margin-left: 2em; margin-right: 2em; 
+ margin-top: 0em; margin-bottom: 0em;
+ font-weight: normal; 
+<!-- font-family: "Times New Roman", Garamond, serif; -->
+ font-family: Verdana, Arial, sans-serif;
+ }
+h4 {
+ font-size: 16pt; text-align: justify;
+ color: black; 
+ margin-left: 2em; margin-right: 2em; 
+ font-weight: normal; 
+<!-- font-family: "Times New Roman", Garamond, serif; -->
+ font-family: Verdana, Arial, sans-serif;
+ }
+h5 {
+ font-size: 14pt; text-align: center;
+ color: black;
+ margin-left: 2em; margin-right: 2em; 
+ font-weight: normal; 
+<!-- font-family: "Times New Roman", Garamond, serif; -->
+ font-family: Verdana, Arial, sans-serif;
+ }
+h5.banner { 
+ margin-top: 0em; margin-bottom: 0em; 
+ margin-left: 0em; margin-right: 0em;
+ font-style: italic;
+ font-family: Verdana, Arial, sans-serif; 
+ }
+h6 {
+ font-size: 7pt; text-align: justify;
+ color: black; 
+ margin-top: 0em; margin-bottom: 0em; 
+ font-family: Arial, sans-serif; 
+ }
+h6.center {
+ font-size: 7pt; text-align: center;
+ color: black; 
+ margin-top: 0em; margin-bottom: 0em; 
+ font-family: Arial, sans-serif; 
+ }
+dt { 
+ font-size: 12pt; text-align: justify; 
+ color: black; 
+ margin-left: 2em; margin-right: 2em; 
+ font-weight: bold; font-style: italic; 
+<!-- font-family: "Times New Roman", Garamond, serif; -->
+ font-family: Verdana, Arial, sans-serif;
+ } 
+dd { 
+ font-size: 12pt; text-align: justify; 
+ color: black; 
+ text-indent: 1em;
+ margin-left: 2em; margin-right: 2em; 
+ font-weight: normal; 
+<!-- font-family: "Times New Roman", Garamond, serif; -->
+ font-family: Verdana, Arial, sans-serif;
+ } 
+pre {
+ font-family: monospace; 
+ }
+tr.head {
+ color: #F4F4F4; background: black; 
+ text-align: center; 
+ }
+tr.stat {
+ color: black; background: #B0B0B0; 
+ }
+tr.number {
+ color: black; background: #DFDFDF;
+ } 
+div.box100 {
+ color: black; background: #DFDFDF;
+ border: solid; 
+ width: 100%; 
+ }
+div.box80 {
+ color: black; background: #DFDFDF;
+ border: solid; 
+ width: 80%;
+ }
+:link {
+ color: blue;
+ }
+:visited {
+ color: #993300;
+ }
+:active {
+ color: #993300;
+ }
+:hover {color: #006633; }
